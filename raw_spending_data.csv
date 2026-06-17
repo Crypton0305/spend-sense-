@@ -1,0 +1,887 @@
+Date,Category,Amount
+2023-01-01,Education,116.21
+2023-01-01,Healthcare,187.12
+2023-01-01,Shopping,38.0
+2023-01-02,Rent,1040.45
+2023-01-02,Utilities,52.06
+2023-01-02,Miscellaneous,84.92
+2023-01-03,Food & Dining,79.45
+2023-01-03,Entertainment,66.99
+2023-01-04,Shopping,72.42
+2023-01-05,Transportation,7.1
+2023-01-05,Miscellaneous,30.95
+2023-01-05,Food & Dining,53.29
+2023-01-06,Shopping,126.63
+2023-01-06,Food & Dining,52.53
+2023-01-06,Food & Dining,14.55
+2023-01-06,Rent,1186.25
+2023-01-07,Transportation,5.72
+2023-01-07,Food & Dining,26.87
+2023-01-08,Food & Dining,44.66
+2023-01-08,Food & Dining,73.65
+2023-01-08,Transportation,34.81
+2023-01-08,Transportation,28.4
+2023-01-09,Entertainment,17.66
+2023-01-09,Rent,979.9
+2023-01-10,Rent,1039.16
+2023-01-10,Rent,835.4
+2023-01-11,Shopping,193.01
+2023-01-11,Rent,1098.93
+2023-01-11,Shopping,125.62
+2023-01-12,Transportation,29.42
+2023-01-13,Transportation,12.44
+2023-01-14,Miscellaneous,79.5
+2023-01-15,Transportation,5.63
+2023-01-15,Food & Dining,59.79
+2023-01-15,Education,314.8
+2023-01-15,Rent,1060.43
+2023-01-16,Rent,1049.32
+2023-01-16,Transportation,7.86
+2023-01-16,Transportation,19.63
+2023-01-16,Utilities,113.76
+2023-01-17,Entertainment,47.55
+2023-01-17,Miscellaneous,86.4
+2023-01-17,Utilities,73.6
+2023-01-18,Shopping,114.09
+2023-01-18,Shopping,24.58
+2023-01-19,Food & Dining,72.7
+2023-01-20,Transportation,27.89
+2023-01-21,Food & Dining,52.31
+2023-01-21,Shopping,56.55
+2023-01-22,Food & Dining,30.28
+2023-01-23,Rent,1049.74
+2023-01-23,Transportation,9.75
+2023-01-24,Education,117.69
+2023-01-24,Rent,1015.74
+2023-01-24,Education,451.16
+2023-01-24,Transportation,9.95
+2023-01-25,Entertainment,15.04
+2023-01-26,Rent,802.78
+2023-01-27,Shopping,107.27
+2023-01-27,Utilities,76.94
+2023-01-27,Food & Dining,21.78
+2023-01-27,Food & Dining,49.07
+2023-01-28,Transportation,48.73
+2023-01-28,Miscellaneous,32.66
+2023-01-28,Shopping,74.16
+2023-01-28,Transportation,6.66
+2023-01-29,Miscellaneous,46.99
+2023-01-30,Transportation,45.87
+2023-01-30,Food & Dining,20.14
+2023-01-30,Shopping,197.42
+2023-01-31,Entertainment,21.87
+2023-01-31,Transportation,15.9
+2023-01-31,Education,251.04
+2023-01-31,Miscellaneous,45.89
+2023-02-01,Food & Dining,68.47
+2023-02-01,Transportation,13.39
+2023-02-01,Food & Dining,51.36
+2023-02-02,Food & Dining,59.78
+2023-02-02,Education,193.87
+2023-02-02,Food & Dining,75.84
+2023-02-03,Transportation,47.15
+2023-02-03,Food & Dining,33.87
+2023-02-03,Food & Dining,74.73
+2023-02-03,Rent,903.18
+2023-02-04,Food & Dining,78.75
+2023-02-04,Shopping,66.95
+2023-02-04,Miscellaneous,96.89
+2023-02-04,Entertainment,90.02
+2023-02-05,Transportation,20.71
+2023-02-05,Utilities,139.71
+2023-02-05,Rent,1111.95
+2023-02-06,Rent,1174.25
+2023-02-06,Education,344.42
+2023-02-06,Entertainment,46.64
+2023-02-06,Rent,1189.47
+2023-02-07,Food & Dining,48.41
+2023-02-07,Utilities,115.2
+2023-02-08,Food & Dining,11.27
+2023-02-09,Transportation,38.59
+2023-02-09,Entertainment,87.18
+2023-02-10,Transportation,29.41
+2023-02-11,Transportation,16.93
+2023-02-11,Food & Dining,78.11
+2023-02-11,Transportation,45.14
+2023-02-12,Shopping,83.01
+2023-02-12,Entertainment,71.86
+2023-02-12,Rent,892.07
+2023-02-13,Transportation,6.09
+2023-02-13,Entertainment,30.05
+2023-02-13,Rent,1181.57
+2023-02-13,Rent,948.06
+2023-02-14,Miscellaneous,39.77
+2023-02-15,Miscellaneous,96.73
+2023-02-15,Rent,917.78
+2023-02-16,Food & Dining,28.79
+2023-02-17,Food & Dining,48.98
+2023-02-17,Rent,1078.41
+2023-02-17,Entertainment,23.26
+2023-02-18,Utilities,85.86
+2023-02-18,Transportation,18.29
+2023-02-18,Transportation,43.19
+2023-02-18,Food & Dining,59.62
+2023-02-19,Transportation,41.42
+2023-02-19,Education,437.52
+2023-02-19,Rent,1004.54
+2023-02-20,Entertainment,31.51
+2023-02-21,Utilities,129.58
+2023-02-21,Rent,935.2
+2023-02-21,Transportation,9.23
+2023-02-21,Entertainment,18.06
+2023-02-22,Food & Dining,78.73
+2023-02-23,Entertainment,17.59
+2023-02-23,Food & Dining,67.58
+2023-02-24,Shopping,78.8
+2023-02-24,Education,157.63
+2023-02-25,Entertainment,22.25
+2023-02-25,Food & Dining,47.19
+2023-02-25,Shopping,134.74
+2023-02-25,Utilities,147.59
+2023-02-26,Utilities,54.11
+2023-02-26,Transportation,24.51
+2023-02-26,Healthcare,90.24
+2023-02-26,Food & Dining,15.66
+2023-02-27,Utilities,90.9
+2023-02-27,Food & Dining,20.95
+2023-02-27,Transportation,29.72
+2023-02-28,Food & Dining,75.42
+2023-02-28,Entertainment,58.92
+2023-02-28,Utilities,93.57
+2023-02-28,Healthcare,33.36
+2023-03-01,Transportation,39.1
+2023-03-01,Food & Dining,18.13
+2023-03-02,Food & Dining,31.8
+2023-03-03,Utilities,97.42
+2023-03-03,Food & Dining,44.41
+2023-03-04,Transportation,25.91
+2023-03-04,Entertainment,19.09
+2023-03-04,Rent,1154.67
+2023-03-05,Transportation,33.16
+2023-03-05,Shopping,174.17
+2023-03-05,Utilities,66.29
+2023-03-05,Food & Dining,54.97
+2023-03-06,Rent,1054.56
+2023-03-07,Entertainment,47.99
+2023-03-07,Entertainment,53.95
+2023-03-07,Shopping,189.46
+2023-03-07,Transportation,48.25
+2023-03-08,Food & Dining,29.18
+2023-03-08,Food & Dining,36.41
+2023-03-09,Food & Dining,57.81
+2023-03-10,Utilities,88.54
+2023-03-11,Food & Dining,67.01
+2023-03-11,Transportation,10.32
+2023-03-12,Transportation,47.15
+2023-03-13,Healthcare,244.97
+2023-03-13,Transportation,12.98
+2023-03-13,Healthcare,245.91
+2023-03-13,Miscellaneous,47.14
+2023-03-14,Transportation,31.12
+2023-03-14,Rent,1024.75
+2023-03-15,Shopping,155.16
+2023-03-15,Healthcare,48.87
+2023-03-15,Rent,1002.1
+2023-03-15,Education,180.42
+2023-03-16,Food & Dining,13.74
+2023-03-16,Miscellaneous,86.24
+2023-03-16,Transportation,48.06
+2023-03-17,Miscellaneous,61.61
+2023-03-17,Entertainment,53.12
+2023-03-17,Transportation,19.79
+2023-03-18,Food & Dining,76.23
+2023-03-18,Education,83.33
+2023-03-18,Rent,1189.7
+2023-03-19,Shopping,99.48
+2023-03-19,Rent,940.37
+2023-03-20,Miscellaneous,71.92
+2023-03-20,Rent,1146.75
+2023-03-21,Food & Dining,59.07
+2023-03-21,Food & Dining,67.53
+2023-03-22,Food & Dining,45.93
+2023-03-22,Food & Dining,50.69
+2023-03-23,Transportation,41.58
+2023-03-24,Rent,1036.76
+2023-03-24,Transportation,36.87
+2023-03-24,Shopping,88.04
+2023-03-25,Shopping,183.14
+2023-03-25,Food & Dining,44.48
+2023-03-25,Food & Dining,42.81
+2023-03-26,Healthcare,234.81
+2023-03-26,Education,379.78
+2023-03-27,Entertainment,96.78
+2023-03-27,Transportation,17.86
+2023-03-27,Rent,889.44
+2023-03-28,Education,489.61
+2023-03-28,Entertainment,42.43
+2023-03-29,Shopping,198.73
+2023-03-29,Food & Dining,48.77
+2023-03-29,Miscellaneous,57.08
+2023-03-29,Entertainment,74.14
+2023-03-30,Miscellaneous,72.72
+2023-03-30,Transportation,38.17
+2023-03-30,Rent,1183.48
+2023-03-31,Rent,982.26
+2023-03-31,Entertainment,38.58
+2023-03-31,Food & Dining,42.46
+2023-03-31,Transportation,31.26
+2023-04-01,Transportation,16.7
+2023-04-01,Shopping,25.82
+2023-04-01,Transportation,23.5
+2023-04-01,Entertainment,38.03
+2023-04-02,Rent,1129.01
+2023-04-03,Shopping,124.61
+2023-04-03,Rent,833.1
+2023-04-04,Rent,818.09
+2023-04-04,Food & Dining,36.35
+2023-04-05,Shopping,197.35
+2023-04-06,Entertainment,47.38
+2023-04-06,Miscellaneous,85.79
+2023-04-06,Rent,987.48
+2023-04-07,Food & Dining,10.96
+2023-04-07,Food & Dining,58.42
+2023-04-07,Shopping,154.98
+2023-04-08,Entertainment,80.36
+2023-04-08,Rent,1139.86
+2023-04-08,Food & Dining,41.54
+2023-04-09,Transportation,17.36
+2023-04-09,Food & Dining,71.48
+2023-04-10,Entertainment,45.44
+2023-04-10,Food & Dining,57.01
+2023-04-10,Shopping,159.02
+2023-04-10,Shopping,173.39
+2023-04-11,Miscellaneous,17.96
+2023-04-11,Education,307.28
+2023-04-12,Food & Dining,62.86
+2023-04-12,Entertainment,74.85
+2023-04-12,Food & Dining,19.55
+2023-04-13,Miscellaneous,64.73
+2023-04-13,Entertainment,62.16
+2023-04-13,Food & Dining,60.85
+2023-04-13,Shopping,101.16
+2023-04-14,Transportation,32.99
+2023-04-14,Rent,1179.81
+2023-04-14,Food & Dining,74.86
+2023-04-15,Healthcare,38.55
+2023-04-15,Food & Dining,53.46
+2023-04-16,Transportation,33.5
+2023-04-16,Food & Dining,15.31
+2023-04-17,Shopping,125.26
+2023-04-18,Food & Dining,54.86
+2023-04-18,Food & Dining,34.2
+2023-04-18,Rent,989.58
+2023-04-19,Miscellaneous,64.17
+2023-04-20,Food & Dining,21.83
+2023-04-20,Transportation,12.97
+2023-04-20,Food & Dining,18.44
+2023-04-21,Transportation,45.24
+2023-04-22,Shopping,144.27
+2023-04-23,Food & Dining,43.68
+2023-04-24,Food & Dining,71.15
+2023-04-24,Rent,824.43
+2023-04-25,Rent,833.81
+2023-04-25,Entertainment,98.83
+2023-04-26,Transportation,26.8
+2023-04-26,Entertainment,46.36
+2023-04-26,Shopping,154.54
+2023-04-27,Food & Dining,19.32
+2023-04-27,Utilities,134.44
+2023-04-28,Shopping,39.29
+2023-04-28,Shopping,115.87
+2023-04-28,Food & Dining,28.85
+2023-04-29,Food & Dining,49.48
+2023-04-30,Food & Dining,32.92
+2023-05-01,Food & Dining,34.0
+2023-05-01,Shopping,83.92
+2023-05-01,Entertainment,55.76
+2023-05-01,Entertainment,77.63
+2023-05-02,Healthcare,140.86
+2023-05-02,Food & Dining,29.86
+2023-05-02,Transportation,34.07
+2023-05-03,Food & Dining,44.88
+2023-05-03,Transportation,47.02
+2023-05-04,Food & Dining,20.7
+2023-05-05,Shopping,173.15
+2023-05-05,Food & Dining,66.41
+2023-05-05,Food & Dining,68.96
+2023-05-06,Shopping,93.87
+2023-05-06,Miscellaneous,20.08
+2023-05-06,Transportation,48.63
+2023-05-07,Food & Dining,78.25
+2023-05-07,Shopping,150.12
+2023-05-07,Education,367.67
+2023-05-07,Shopping,105.79
+2023-05-08,Healthcare,72.37
+2023-05-09,Utilities,69.95
+2023-05-09,Healthcare,168.36
+2023-05-10,Entertainment,39.53
+2023-05-11,Shopping,187.76
+2023-05-12,Shopping,29.33
+2023-05-13,Shopping,118.75
+2023-05-13,Shopping,56.31
+2023-05-14,Education,149.68
+2023-05-14,Utilities,126.02
+2023-05-14,Entertainment,55.08
+2023-05-14,Shopping,82.8
+2023-05-15,Rent,1098.39
+2023-05-16,Food & Dining,61.16
+2023-05-16,Rent,872.49
+2023-05-17,Rent,1088.64
+2023-05-17,Food & Dining,64.71
+2023-05-17,Education,382.74
+2023-05-18,Food & Dining,21.5
+2023-05-18,Education,342.64
+2023-05-18,Shopping,84.59
+2023-05-18,Rent,956.98
+2023-05-19,Shopping,148.48
+2023-05-19,Rent,1049.64
+2023-05-19,Shopping,98.97
+2023-05-19,Entertainment,45.21
+2023-05-20,Transportation,29.46
+2023-05-20,Rent,1049.7
+2023-05-20,Food & Dining,75.79
+2023-05-21,Healthcare,214.24
+2023-05-21,Food & Dining,71.5
+2023-05-21,Shopping,153.46
+2023-05-22,Education,101.29
+2023-05-22,Transportation,16.18
+2023-05-22,Healthcare,29.39
+2023-05-23,Utilities,99.4
+2023-05-23,Healthcare,48.82
+2023-05-24,Food & Dining,69.25
+2023-05-25,Entertainment,57.69
+2023-05-25,Shopping,107.54
+2023-05-25,Shopping,158.94
+2023-05-25,Food & Dining,51.89
+2023-05-26,Shopping,65.32
+2023-05-26,Transportation,13.17
+2023-05-26,Rent,1033.36
+2023-05-26,Shopping,103.16
+2023-05-27,Entertainment,92.51
+2023-05-27,Food & Dining,17.06
+2023-05-28,Food & Dining,71.05
+2023-05-29,Food & Dining,74.31
+2023-05-29,Education,40.82
+2023-05-29,Utilities,127.12
+2023-05-29,Transportation,8.1
+2023-05-30,Healthcare,281.62
+2023-05-30,Rent,980.34
+2023-05-30,Food & Dining,78.94
+2023-05-31,Food & Dining,68.62
+2023-05-31,Transportation,19.01
+2023-06-01,Entertainment,48.92
+2023-06-01,Food & Dining,33.46
+2023-06-01,Education,32.18
+2023-06-02,Food & Dining,39.02
+2023-06-03,Rent,938.54
+2023-06-03,Transportation,38.19
+2023-06-04,Entertainment,17.79
+2023-06-05,Food & Dining,22.35
+2023-06-05,Shopping,95.41
+2023-06-05,Rent,944.96
+2023-06-06,Transportation,14.9
+2023-06-06,Food & Dining,46.06
+2023-06-06,Miscellaneous,51.31
+2023-06-07,Shopping,35.36
+2023-06-07,Miscellaneous,55.2
+2023-06-07,Entertainment,20.7
+2023-06-07,Healthcare,78.77
+2023-06-08,Transportation,26.07
+2023-06-08,Entertainment,47.11
+2023-06-08,Rent,1034.98
+2023-06-09,Healthcare,146.92
+2023-06-10,Shopping,106.6
+2023-06-10,Shopping,157.76
+2023-06-11,Food & Dining,70.32
+2023-06-11,Rent,949.32
+2023-06-11,Transportation,33.98
+2023-06-11,Shopping,24.57
+2023-06-12,Rent,1146.8
+2023-06-12,Shopping,119.31
+2023-06-12,Transportation,13.83
+2023-06-12,Shopping,127.11
+2023-06-13,Education,113.92
+2023-06-14,Entertainment,76.27
+2023-06-15,Food & Dining,60.56
+2023-06-15,Rent,1132.09
+2023-06-15,Transportation,35.06
+2023-06-16,Shopping,78.32
+2023-06-17,Food & Dining,15.99
+2023-06-17,Food & Dining,11.86
+2023-06-18,Rent,1057.17
+2023-06-19,Rent,1126.98
+2023-06-19,Transportation,16.67
+2023-06-20,Transportation,6.54
+2023-06-20,Rent,938.08
+2023-06-21,Entertainment,52.07
+2023-06-21,Transportation,47.68
+2023-06-21,Healthcare,59.23
+2023-06-21,Rent,994.97
+2023-06-22,Shopping,52.78
+2023-06-22,Shopping,112.24
+2023-06-23,Shopping,134.03
+2023-06-24,Food & Dining,55.15
+2023-06-24,Shopping,43.81
+2023-06-24,Rent,1076.49
+2023-06-25,Food & Dining,74.0
+2023-06-26,Education,264.1
+2023-06-27,Entertainment,70.37
+2023-06-27,Education,127.02
+2023-06-28,Food & Dining,28.46
+2023-06-28,Transportation,37.95
+2023-06-29,Entertainment,71.53
+2023-06-29,Food & Dining,74.01
+2023-06-30,Shopping,158.76
+2023-06-30,Shopping,83.7
+2023-07-01,Healthcare,43.18
+2023-07-01,Entertainment,35.85
+2023-07-02,Rent,974.88
+2023-07-03,Utilities,79.71
+2023-07-03,Entertainment,55.46
+2023-07-03,Utilities,143.68
+2023-07-03,Healthcare,80.18
+2023-07-04,Shopping,49.16
+2023-07-04,Rent,1138.56
+2023-07-04,Miscellaneous,23.92
+2023-07-04,Entertainment,55.31
+2023-07-05,Food & Dining,60.97
+2023-07-06,Utilities,109.83
+2023-07-07,Food & Dining,67.34
+2023-07-08,Food & Dining,77.74
+2023-07-09,Entertainment,45.68
+2023-07-09,Food & Dining,74.21
+2023-07-10,Education,354.56
+2023-07-11,Food & Dining,47.93
+2023-07-12,Healthcare,198.91
+2023-07-12,Healthcare,222.75
+2023-07-12,Entertainment,98.35
+2023-07-12,Rent,1058.67
+2023-07-13,Miscellaneous,94.97
+2023-07-13,Food & Dining,59.39
+2023-07-13,Rent,872.23
+2023-07-14,Shopping,76.31
+2023-07-15,Utilities,79.73
+2023-07-15,Rent,1188.42
+2023-07-15,Rent,989.69
+2023-07-16,Food & Dining,41.86
+2023-07-16,Shopping,136.02
+2023-07-17,Entertainment,34.55
+2023-07-17,Food & Dining,15.39
+2023-07-18,Shopping,99.39
+2023-07-19,Food & Dining,32.07
+2023-07-19,Shopping,162.33
+2023-07-19,Transportation,33.17
+2023-07-20,Shopping,177.8
+2023-07-20,Shopping,103.15
+2023-07-20,Miscellaneous,10.02
+2023-07-20,Food & Dining,36.88
+2023-07-21,Education,499.03
+2023-07-21,Transportation,39.52
+2023-07-21,Shopping,106.38
+2023-07-21,Entertainment,89.26
+2023-07-22,Transportation,9.13
+2023-07-22,Transportation,28.51
+2023-07-22,Healthcare,20.94
+2023-07-23,Transportation,17.93
+2023-07-24,Utilities,108.91
+2023-07-24,Transportation,45.97
+2023-07-24,Food & Dining,17.66
+2023-07-24,Transportation,10.6
+2023-07-25,Rent,1114.54
+2023-07-25,Food & Dining,39.23
+2023-07-25,Rent,1177.89
+2023-07-26,Rent,1195.67
+2023-07-26,Healthcare,38.2
+2023-07-26,Shopping,170.81
+2023-07-27,Entertainment,58.58
+2023-07-27,Food & Dining,22.36
+2023-07-28,Food & Dining,77.01
+2023-07-28,Education,406.36
+2023-07-29,Miscellaneous,89.54
+2023-07-29,Rent,1197.96
+2023-07-30,Transportation,28.19
+2023-07-31,Utilities,65.39
+2023-07-31,Education,135.49
+2023-08-01,Healthcare,29.76
+2023-08-01,Rent,1144.05
+2023-08-01,Shopping,90.41
+2023-08-01,Transportation,26.45
+2023-08-02,Miscellaneous,87.59
+2023-08-02,Education,337.96
+2023-08-02,Entertainment,22.39
+2023-08-03,Transportation,5.23
+2023-08-03,Utilities,54.88
+2023-08-03,Shopping,193.18
+2023-08-03,Food & Dining,72.61
+2023-08-04,Rent,998.06
+2023-08-05,Shopping,183.17
+2023-08-05,Entertainment,71.28
+2023-08-05,Shopping,175.61
+2023-08-05,Healthcare,165.95
+2023-08-06,Utilities,135.06
+2023-08-06,Rent,1083.35
+2023-08-06,Rent,1078.99
+2023-08-06,Utilities,111.86
+2023-08-07,Food & Dining,71.71
+2023-08-07,Miscellaneous,51.89
+2023-08-08,Education,90.57
+2023-08-08,Transportation,38.46
+2023-08-08,Food & Dining,67.26
+2023-08-09,Healthcare,92.43
+2023-08-09,Food & Dining,15.89
+2023-08-10,Miscellaneous,66.86
+2023-08-10,Transportation,33.53
+2023-08-10,Shopping,160.37
+2023-08-11,Transportation,5.83
+2023-08-11,Shopping,171.22
+2023-08-12,Entertainment,94.22
+2023-08-12,Food & Dining,75.61
+2023-08-12,Utilities,56.78
+2023-08-12,Transportation,36.87
+2023-08-13,Utilities,97.36
+2023-08-13,Food & Dining,15.23
+2023-08-14,Rent,1189.4
+2023-08-14,Miscellaneous,77.47
+2023-08-15,Entertainment,47.61
+2023-08-15,Food & Dining,67.51
+2023-08-15,Transportation,41.85
+2023-08-16,Utilities,94.59
+2023-08-16,Transportation,49.87
+2023-08-16,Shopping,101.25
+2023-08-17,Shopping,168.67
+2023-08-17,Transportation,42.8
+2023-08-17,Healthcare,84.42
+2023-08-18,Transportation,47.79
+2023-08-18,Food & Dining,40.26
+2023-08-18,Rent,967.89
+2023-08-19,Miscellaneous,78.41
+2023-08-19,Shopping,76.15
+2023-08-19,Transportation,37.6
+2023-08-20,Food & Dining,12.18
+2023-08-20,Utilities,86.85
+2023-08-21,Shopping,117.78
+2023-08-21,Food & Dining,24.26
+2023-08-21,Food & Dining,20.76
+2023-08-22,Rent,1104.41
+2023-08-22,Entertainment,26.16
+2023-08-22,Food & Dining,74.46
+2023-08-23,Food & Dining,42.35
+2023-08-23,Food & Dining,51.88
+2023-08-23,Entertainment,36.04
+2023-08-24,Food & Dining,44.41
+2023-08-25,Utilities,82.59
+2023-08-25,Entertainment,51.83
+2023-08-25,Miscellaneous,23.46
+2023-08-26,Food & Dining,37.47
+2023-08-27,Miscellaneous,74.97
+2023-08-27,Utilities,125.71
+2023-08-28,Healthcare,31.09
+2023-08-28,Shopping,38.89
+2023-08-28,Food & Dining,79.07
+2023-08-28,Food & Dining,44.92
+2023-08-29,Food & Dining,34.22
+2023-08-29,Healthcare,283.55
+2023-08-30,Shopping,35.82
+2023-08-31,Food & Dining,67.72
+2023-09-01,Transportation,10.97
+2023-09-01,Entertainment,73.6
+2023-09-02,Education,49.36
+2023-09-02,Utilities,145.15
+2023-09-03,Utilities,53.16
+2023-09-04,Entertainment,67.1
+2023-09-04,Transportation,47.08
+2023-09-05,Utilities,130.17
+2023-09-05,Transportation,41.67
+2023-09-05,Food & Dining,72.64
+2023-09-05,Shopping,167.11
+2023-09-06,Shopping,27.34
+2023-09-06,Food & Dining,40.7
+2023-09-07,Food & Dining,27.3
+2023-09-07,Food & Dining,71.02
+2023-09-08,Transportation,26.16
+2023-09-08,Healthcare,264.11
+2023-09-09,Utilities,99.82
+2023-09-10,Food & Dining,55.73
+2023-09-10,Transportation,29.41
+2023-09-11,Utilities,69.95
+2023-09-11,Utilities,57.22
+2023-09-11,Food & Dining,28.04
+2023-09-12,Food & Dining,77.25
+2023-09-12,Shopping,172.32
+2023-09-12,Entertainment,77.5
+2023-09-12,Healthcare,161.36
+2023-09-13,Rent,1031.47
+2023-09-13,Shopping,150.55
+2023-09-14,Entertainment,65.81
+2023-09-14,Education,337.85
+2023-09-14,Miscellaneous,35.55
+2023-09-14,Transportation,22.27
+2023-09-15,Entertainment,77.31
+2023-09-15,Food & Dining,60.11
+2023-09-16,Entertainment,68.77
+2023-09-16,Transportation,28.07
+2023-09-16,Shopping,32.44
+2023-09-16,Shopping,37.53
+2023-09-17,Shopping,112.67
+2023-09-18,Utilities,59.53
+2023-09-19,Transportation,48.62
+2023-09-20,Rent,803.61
+2023-09-20,Entertainment,65.89
+2023-09-21,Miscellaneous,50.84
+2023-09-21,Food & Dining,15.14
+2023-09-21,Food & Dining,46.38
+2023-09-21,Transportation,42.3
+2023-09-22,Shopping,125.82
+2023-09-23,Utilities,66.7
+2023-09-23,Food & Dining,12.57
+2023-09-23,Healthcare,205.87
+2023-09-23,Shopping,171.95
+2023-09-24,Shopping,175.56
+2023-09-24,Entertainment,60.89
+2023-09-24,Food & Dining,79.07
+2023-09-24,Food & Dining,26.18
+2023-09-25,Food & Dining,18.55
+2023-09-25,Shopping,188.1
+2023-09-26,Food & Dining,50.93
+2023-09-27,Food & Dining,79.06
+2023-09-27,Miscellaneous,10.44
+2023-09-27,Miscellaneous,67.52
+2023-09-27,Rent,981.9
+2023-09-28,Shopping,81.68
+2023-09-28,Shopping,42.63
+2023-09-28,Food & Dining,20.05
+2023-09-29,Food & Dining,57.14
+2023-09-29,Miscellaneous,18.45
+2023-09-30,Food & Dining,26.42
+2023-09-30,Miscellaneous,32.98
+2023-09-30,Utilities,147.86
+2023-09-30,Transportation,5.79
+2023-10-01,Entertainment,88.86
+2023-10-01,Entertainment,17.58
+2023-10-02,Education,461.78
+2023-10-02,Entertainment,94.97
+2023-10-02,Education,343.48
+2023-10-02,Entertainment,44.63
+2023-10-03,Miscellaneous,14.34
+2023-10-03,Miscellaneous,46.62
+2023-10-04,Healthcare,45.33
+2023-10-04,Transportation,9.91
+2023-10-04,Utilities,126.52
+2023-10-04,Rent,975.27
+2023-10-05,Healthcare,243.39
+2023-10-05,Shopping,167.21
+2023-10-06,Transportation,34.21
+2023-10-06,Transportation,33.36
+2023-10-06,Entertainment,62.89
+2023-10-06,Transportation,29.68
+2023-10-07,Food & Dining,36.13
+2023-10-08,Food & Dining,51.09
+2023-10-08,Food & Dining,54.98
+2023-10-08,Healthcare,160.12
+2023-10-08,Shopping,191.27
+2023-10-09,Shopping,24.62
+2023-10-09,Transportation,22.11
+2023-10-10,Shopping,64.29
+2023-10-10,Shopping,90.99
+2023-10-11,Education,367.52
+2023-10-11,Miscellaneous,11.64
+2023-10-11,Food & Dining,10.53
+2023-10-12,Food & Dining,76.83
+2023-10-12,Utilities,88.01
+2023-10-12,Food & Dining,43.54
+2023-10-13,Food & Dining,44.01
+2023-10-13,Transportation,17.82
+2023-10-13,Transportation,41.14
+2023-10-14,Entertainment,22.62
+2023-10-14,Utilities,89.99
+2023-10-14,Miscellaneous,84.09
+2023-10-15,Food & Dining,57.68
+2023-10-15,Food & Dining,46.76
+2023-10-16,Transportation,40.7
+2023-10-16,Food & Dining,74.24
+2023-10-16,Shopping,35.67
+2023-10-17,Entertainment,18.69
+2023-10-17,Entertainment,95.87
+2023-10-18,Entertainment,58.79
+2023-10-18,Entertainment,82.47
+2023-10-18,Entertainment,29.86
+2023-10-19,Rent,1160.01
+2023-10-20,Entertainment,36.73
+2023-10-20,Transportation,37.94
+2023-10-20,Rent,1068.57
+2023-10-20,Education,390.33
+2023-10-21,Shopping,125.59
+2023-10-21,Food & Dining,61.58
+2023-10-22,Shopping,116.36
+2023-10-22,Food & Dining,31.86
+2023-10-23,Entertainment,61.47
+2023-10-23,Food & Dining,37.36
+2023-10-23,Entertainment,57.23
+2023-10-24,Transportation,31.87
+2023-10-24,Utilities,94.27
+2023-10-25,Utilities,119.24
+2023-10-26,Transportation,41.84
+2023-10-26,Entertainment,43.66
+2023-10-26,Rent,1109.05
+2023-10-27,Food & Dining,72.59
+2023-10-27,Food & Dining,32.64
+2023-10-27,Food & Dining,34.85
+2023-10-27,Food & Dining,46.33
+2023-10-28,Utilities,56.99
+2023-10-28,Entertainment,38.05
+2023-10-29,Utilities,103.3
+2023-10-29,Transportation,19.99
+2023-10-29,Utilities,149.41
+2023-10-29,Utilities,105.78
+2023-10-30,Shopping,80.04
+2023-10-30,Entertainment,22.55
+2023-10-31,Food & Dining,58.3
+2023-11-01,Food & Dining,38.66
+2023-11-02,Shopping,156.11
+2023-11-02,Transportation,34.92
+2023-11-03,Shopping,88.85
+2023-11-03,Food & Dining,78.19
+2023-11-03,Food & Dining,61.6
+2023-11-03,Healthcare,88.22
+2023-11-04,Shopping,132.25
+2023-11-04,Food & Dining,62.87
+2023-11-05,Entertainment,58.08
+2023-11-06,Utilities,53.62
+2023-11-06,Transportation,16.84
+2023-11-06,Transportation,8.94
+2023-11-06,Rent,1021.52
+2023-11-07,Education,161.46
+2023-11-07,Rent,1149.33
+2023-11-07,Food & Dining,65.04
+2023-11-08,Miscellaneous,86.63
+2023-11-08,Food & Dining,75.14
+2023-11-08,Food & Dining,67.22
+2023-11-09,Utilities,103.25
+2023-11-09,Utilities,64.13
+2023-11-09,Food & Dining,67.31
+2023-11-10,Shopping,51.23
+2023-11-10,Utilities,84.61
+2023-11-10,Miscellaneous,67.69
+2023-11-11,Entertainment,55.75
+2023-11-12,Rent,994.82
+2023-11-13,Rent,1131.73
+2023-11-13,Transportation,47.88
+2023-11-14,Food & Dining,35.73
+2023-11-14,Food & Dining,11.81
+2023-11-15,Food & Dining,15.6
+2023-11-16,Miscellaneous,48.92
+2023-11-16,Transportation,27.78
+2023-11-16,Shopping,39.02
+2023-11-16,Entertainment,33.36
+2023-11-17,Entertainment,46.01
+2023-11-17,Transportation,30.4
+2023-11-18,Shopping,30.47
+2023-11-18,Miscellaneous,15.2
+2023-11-19,Transportation,24.37
+2023-11-19,Food & Dining,15.22
+2023-11-19,Education,154.73
+2023-11-19,Food & Dining,58.41
+2023-11-20,Shopping,199.41
+2023-11-21,Food & Dining,25.46
+2023-11-22,Entertainment,59.8
+2023-11-23,Utilities,129.21
+2023-11-23,Shopping,137.73
+2023-11-23,Transportation,28.65
+2023-11-24,Education,374.8
+2023-11-24,Healthcare,23.09
+2023-11-25,Food & Dining,39.3
+2023-11-25,Education,303.61
+2023-11-26,Food & Dining,47.47
+2023-11-26,Food & Dining,10.85
+2023-11-26,Food & Dining,78.31
+2023-11-27,Food & Dining,12.98
+2023-11-27,Transportation,16.96
+2023-11-28,Shopping,171.98
+2023-11-28,Food & Dining,44.18
+2023-11-28,Food & Dining,32.73
+2023-11-29,Utilities,131.07
+2023-11-29,Entertainment,88.06
+2023-11-29,Transportation,48.03
+2023-11-29,Food & Dining,17.15
+2023-11-30,Transportation,35.97
+2023-11-30,Shopping,65.84
+2023-11-30,Rent,815.37
+2023-11-30,Rent,984.59
+2023-12-01,Shopping,89.54
+2023-12-01,Shopping,60.85
+2023-12-01,Rent,980.25
+2023-12-02,Food & Dining,61.62
+2023-12-03,Shopping,28.61
+2023-12-04,Food & Dining,60.14
+2023-12-04,Food & Dining,14.99
+2023-12-04,Food & Dining,76.96
+2023-12-04,Healthcare,118.91
+2023-12-05,Miscellaneous,97.37
+2023-12-05,Rent,1113.54
+2023-12-06,Food & Dining,16.89
+2023-12-06,Utilities,126.44
+2023-12-06,Transportation,5.94
+2023-12-07,Shopping,181.8
+2023-12-07,Education,137.09
+2023-12-07,Miscellaneous,70.06
+2023-12-07,Food & Dining,27.88
+2023-12-08,Healthcare,200.29
+2023-12-08,Shopping,27.55
+2023-12-08,Miscellaneous,81.88
+2023-12-08,Transportation,49.1
+2023-12-09,Shopping,185.65
+2023-12-09,Shopping,130.97
+2023-12-10,Food & Dining,33.68
+2023-12-10,Rent,889.85
+2023-12-11,Transportation,29.75
+2023-12-12,Entertainment,95.16
+2023-12-12,Food & Dining,18.51
+2023-12-13,Shopping,22.29
+2023-12-13,Miscellaneous,70.43
+2023-12-13,Transportation,44.57
+2023-12-13,Transportation,29.48
+2023-12-14,Healthcare,148.95
+2023-12-15,Healthcare,176.19
+2023-12-15,Food & Dining,13.77
+2023-12-15,Transportation,38.89
+2023-12-15,Transportation,29.28
+2023-12-16,Food & Dining,19.22
+2023-12-17,Food & Dining,77.56
+2023-12-17,Shopping,47.12
+2023-12-17,Transportation,23.6
+2023-12-18,Entertainment,58.21
+2023-12-19,Food & Dining,20.61
+2023-12-19,Food & Dining,50.4
+2023-12-19,Rent,973.52
+2023-12-20,Shopping,21.68
+2023-12-20,Food & Dining,60.85
+2023-12-20,Miscellaneous,18.93
+2023-12-20,Shopping,164.01
+2023-12-21,Transportation,38.41
+2023-12-21,Education,319.04
+2023-12-21,Utilities,87.53
+2023-12-22,Entertainment,15.44
+2023-12-23,Rent,1133.07
+2023-12-23,Food & Dining,62.47
+2023-12-24,Transportation,19.71
+2023-12-25,Rent,988.13
+2023-12-25,Shopping,42.45
+2023-12-25,Transportation,33.95
+2023-12-26,Rent,1037.22
+2023-12-26,Transportation,23.57
+2023-12-27,Food & Dining,12.03
+2023-12-27,Food & Dining,22.69
+2023-12-27,Transportation,23.1
+2023-12-27,Rent,1004.04
+2023-12-28,Food & Dining,50.6
+2023-12-28,Entertainment,62.66
+2023-12-28,Entertainment,72.5
+2023-12-29,Entertainment,16.95
+2023-12-29,Transportation,33.64
+2023-12-30,Food & Dining,33.4
+2023-12-30,Education,362.61
+2023-12-30,Education,273.12
+2023-12-31,Transportation,10.51
+2023-12-31,Healthcare,86.04
+2023-12-31,Transportation,7.81
+2023-12-31,Education,390.3

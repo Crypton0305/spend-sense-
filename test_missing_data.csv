@@ -1,0 +1,64 @@
+Date,Amount,Category,Income,Savings,Description
+2024-01-07,7770.0,Shopping,60253.0,10996.0,Fuel
+2024-01-14,1360.0,Health,58433.0,4731.0,Fuel
+2024-01-21,5890.0,Food,60233.0,10154.0,Online Shopping
+2024-01-28,13918.0,Utilities,61016.0,11762.0,Fuel
+2024-02-04,5691.0,Food,52612.0,7056.0,Groceries
+2024-02-11,12464.0,,65787.0,10110.0,Netflix
+2024-02-18,11784.0,Food,67159.0,5840.0,Netflix
+2024-02-25,6234.0,Transport,62206.0,3028.0,Electricity
+2024-03-03,6765.0,Utilities,58226.0,9385.0,Fuel
+2024-03-10,966.0,Utilities,,2502.0,Groceries
+2024-03-17,14026.0,,,8910.0,Electricity
+2024-03-24,4926.0,Transport,51585.0,11062.0,Online Shopping
+2024-03-31,6078.0,Shopping,53943.0,8938.0,Electricity
+2024-04-07,14923.0,Food,69457.0,6488.0,Electricity
+2024-04-14,12136.0,Entertainment,51021.0,2206.0,Fuel
+2024-04-21,11863.0,Food,61653.0,7134.0,Online Shopping
+2024-04-28,11611.0,Food,60805.0,7977.0,Electricity
+2024-05-05,8822.0,Shopping,63417.0,9721.0,Groceries
+2024-05-12,2185.0,Food,57989.0,9035.0,Groceries
+2024-05-19,1269.0,Transport,59692.0,3484.0,Netflix
+2024-05-26,,Transport,62990.0,9858.0,Online Shopping
+2024-06-02,14303.0,Utilities,56873.0,2863.0,Online Shopping
+2024-06-09,7449.0,Health,55675.0,4790.0,Netflix
+2024-06-16,2933.0,Entertainment,50161.0,9408.0,Electricity
+2024-06-23,5811.0,Food,54297.0,10755.0,Online Shopping
+2024-06-30,5551.0,Food,50995.0,7116.0,Groceries
+2024-07-07,,Shopping,61534.0,8019.0,Groceries
+2024-07-14,1684.0,Health,57629.0,,Fuel
+2024-07-21,5055.0,Transport,51016.0,9574.0,Online Shopping
+2024-07-28,3885.0,Entertainment,58529.0,8374.0,Electricity
+2024-08-04,12809.0,Utilities,,8892.0,Netflix
+2024-08-11,6896.0,Transport,59268.0,3678.0,Netflix
+2024-08-18,13535.0,Health,62185.0,5242.0,Electricity
+2024-08-25,11596.0,Utilities,56331.0,6636.0,Gym
+2024-09-01,9166.0,Shopping,58571.0,3059.0,Fuel
+2024-09-08,,Shopping,57208.0,8668.0,Netflix
+2024-09-15,,Food,55276.0,11914.0,Online Shopping
+2024-09-22,8349.0,Health,68446.0,5157.0,Fuel
+2024-09-29,2547.0,Entertainment,66448.0,7915.0,Online Shopping
+2024-10-06,3247.0,Utilities,66216.0,11789.0,Groceries
+2024-10-13,9667.0,Transport,58006.0,4693.0,Fuel
+2024-10-20,10498.0,Health,,5627.0,Netflix
+2024-10-27,689.0,Health,52027.0,,Fuel
+2024-11-03,,Shopping,52695.0,,Fuel
+2024-11-10,3505.0,Food,65422.0,3663.0,Fuel
+2024-11-17,,Food,55258.0,11721.0,Gym
+2024-11-24,2399.0,Utilities,,7592.0,Fuel
+2024-12-01,,,50391.0,,Online Shopping
+2024-12-08,1767.0,Health,63986.0,3306.0,Groceries
+2024-12-15,2028.0,Entertainment,62666.0,8776.0,Electricity
+2024-12-22,11894.0,Shopping,55892.0,7864.0,Fuel
+2024-12-29,4056.0,Utilities,53561.0,,Netflix
+2025-01-05,,Utilities,56184.0,9526.0,Fuel
+2025-01-12,9338.0,Shopping,69483.0,10901.0,Netflix
+2025-01-19,14856.0,Utilities,58392.0,7575.0,Online Shopping
+2025-01-26,11580.0,Shopping,63067.0,7530.0,Netflix
+2025-02-02,5893.0,,65265.0,6413.0,Electricity
+2025-02-09,11127.0,Shopping,69488.0,5748.0,Groceries
+2025-02-16,9292.0,Shopping,52454.0,,Netflix
+2025-02-23,11055.0,Utilities,61837.0,3998.0,Netflix
+2024-02-11,12464.0,,65787.0,10110.0,Netflix
+2024-03-17,14026.0,,,8910.0,Electricity
+2024-05-26,,Transport,62990.0,9858.0,Online Shopping
