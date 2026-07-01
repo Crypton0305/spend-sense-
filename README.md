@@ -137,17 +137,6 @@ Your CSV should have at least a `Date` and one numeric column (e.g. `Amount`).
 | `gemma2-9b-it`            | Balanced performance  |
 | `mixtral-8x7b-32768`      | Complex reasoning     |
 
----
-
-## Screenshots
-
-> _Add your screenshots here_
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
