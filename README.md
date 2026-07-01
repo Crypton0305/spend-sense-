@@ -154,5 +154,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 **Your Name**
-- GitHub: [@yourusername]([https://github.com/yourusername](https://github.com/Crypton0305)
-- LinkedIn: [yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayan-ahmed-4a4833322/)
+- GitHub: [@Crypton0305]([[https://github.com/Crypton0305])
+- LinkedIn: [Ayan ahmed]([https://linkedin.com/in/ayan-ahmed-4a4833322])
