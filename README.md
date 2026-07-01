@@ -142,6 +142,5 @@ Your CSV should have at least a `Date` and one numeric column (e.g. `Amount`).
 
 ## Author
 
-**Your Name**
 - GitHub: [@Crypton0305]([[https://github.com/Crypton0305])
 - LinkedIn: [Ayan ahmed]([https://linkedin.com/in/ayan-ahmed-4a4833322])
